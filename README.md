@@ -22,4 +22,4 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
-[link to page](https://carlosgabrielcarreno.github.io/Blog-preview-card)
+<a href="https://carlosgabrielcarreno.github.io/Blog-preview-card" target="_blank">link to page</a>
