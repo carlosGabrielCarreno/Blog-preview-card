@@ -26,8 +26,8 @@ body {
 
 .main {
   border: solid;
-  width: 350px;
-  height: 80%;
+  width: 330px;
+  height: 70%;
   background-color: var(--White);
   padding: 1rem;
   border-radius: 15px;
