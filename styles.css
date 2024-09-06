@@ -31,6 +31,7 @@ body {
 }
 
 .main {
+  transition: width 0.2s ease;
   border: 1px solid;
   width: 270px;
   background-color: var(--White);
@@ -92,3 +93,28 @@ footer h5 {
 }
 
 /* mode Desktop */
+
+@media screen and (min-width: 400px) {
+  .main {
+    width: 340px;
+    /* gap: 2rem; */
+  }
+  .btn-learning {
+    padding: 10px ;
+    font-weight: 800;
+  }
+  .description {
+    font-size: 15px;
+    color: var(--Gray-500);
+    font-weight: 800;
+    margin-top: 0.6rem;
+  }
+  .section-info-primary h1 {
+    font-size: 20px;
+  }
+  .section-info-primary p {
+    font-size: 15px;
+    color: var(--Gray-500);
+    margin-top: 0.5rem;
+  }
+}
