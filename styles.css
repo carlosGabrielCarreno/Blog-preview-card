@@ -33,7 +33,6 @@ body {
 .main {
   border: solid;
   width: 300px;
-  height: 46%;
   background-color: var(--White);
   padding: 1rem;
   border-radius: 15px;
@@ -41,6 +40,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   font-size: 18px;
+  gap: 1rem;
 }
 
 .main-img {
