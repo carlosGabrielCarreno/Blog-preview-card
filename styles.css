@@ -31,7 +31,7 @@ body {
 }
 
 .main {
-  border: solid;
+  border: 1px solid;
   width: 300px;
   background-color: var(--White);
   padding: 1rem;
@@ -41,6 +41,7 @@ body {
   justify-content: space-around;
   font-size: 18px;
   gap: 1rem;
+  box-shadow: 5px 5px 0 0 var(--Gray-950);
 }
 
 .main-img {
