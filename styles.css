@@ -50,8 +50,9 @@ body {
 }
 
 .btn-learning {
-  padding: 8px;
+  padding: 7px;
   border-radius: 5px;
+  font-size: 12px;
   border: 0;
   background-color: var(--Yellow);
   color: var(--Gray-950);
@@ -89,3 +90,5 @@ footer img {
 footer h5 {
   font-size: 12px;
 }
+
+/* mode Desktop */
